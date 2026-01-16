@@ -1,0 +1,3 @@
+# Pokémon Disclaimer
+
+Pocardex is an unofficial fan application not affiliated with, endorsed by, sponsored by, or supported by Nintendo, GAME FREAK, Creatures Inc., or The Pokémon Company (collectively, "Pokémon Owners"). All Pokémon names, images, artwork, characters, and related content displayed in the App are trademarks and copyrights owned by the Pokémon Owners and used under fair use guidelines for non-commercial, informational, and transformative purposes only. No copyright or trademark infringement is intended. User acknowledges that all rights to Pokémon intellectual property belong exclusively to the Pokémon Owners.
