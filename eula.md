@@ -33,7 +33,7 @@ The App is provided "AS IS" without warranties of any kind, including fitness fo
 
 ## 6. Privacy
 
-Use of the App is subject to our Privacy Policy at [insert URL], covering data handling per GDPR.
+Use of the App is subject to our Privacy Policy at https://www.pocardex.com/privacy-policy.html, covering data handling per GDPR.
 
 ## 7. Updates
 
@@ -43,6 +43,6 @@ Licensor may update this EULA. Continued use constitutes acceptance.
 
 This EULA is governed by Dutch law. Disputes shall be resolved in courts of Alkmaar, The Netherlands.
 
-Last updated: January 15, 2026.
+Last updated: February 23, 2026.
 
 Contact: privacy@hyperdrivelabs.dev
