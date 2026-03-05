@@ -1,5 +1,12 @@
 # What's New in Pocardex
 
+## Version 0.1.10 – March 5 2026
+
+🐛 **Fixed**
+
+- Clip edges for card images
+- Support missing card and set images
+
 ## Version 0.1.9 – February 25 2026
 
 🚀 **New**
