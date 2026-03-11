@@ -1,5 +1,25 @@
 # What's New in Pocardex
 
+## Version 0.1.11 - March 11 2026
+
+🚀 **New**
+
+- New achievement screen
+- User rank based on points earned with achievements
+- Eight all new achievements
+- In-app changelog in the 'About the app' section
+- Create lists from lists page
+
+🔧 **Improved**
+
+- Remove Google Fonts in favor of local font files improving privacy
+- Clear active filter if same filter value is selected
+- Added call to action's for all onboarding quests
+
+🐛 **Fixed**
+
+- Fixed earned point calculation for achievements
+
 ## Version 0.1.10 – March 5 2026
 
 🐛 **Fixed**
