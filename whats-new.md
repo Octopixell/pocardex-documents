@@ -1,5 +1,15 @@
 # What's New in Pocardex
 
+## Version 0.1.13 - March 21 2026
+
+🚀 **New**
+
+- User rank interface received a visual overhaul
+
+🔧 **Improved**
+
+- Implemented new bug tracking strategy allowing for faster fixes and better features while respecting your privacy
+
 ## Version 0.1.11 - March 11 2026
 
 🚀 **New**
