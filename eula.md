@@ -1,6 +1,6 @@
 # END USER LICENSE AGREEMENT FOR POCARDEX
 
-This End User License Agreement ("EULA") is a legal agreement between Hyperdrive Labs, located at Pietersbuur 8, 1619KG Andijk, The Netherlands ("Licensor"), and you ("User") for the Pocardex mobile application ("App"). By downloading, installing, or using the App, you accept these terms. If you do not agree, do not use the App.
+This End User License Agreement ("EULA") is a legal agreement between Hyperdrive Labs, located in The Netherlands ("Licensor"), and you ("User") for the Pocardex mobile application ("App"). By downloading, installing, or using the App, you accept these terms. If you do not agree, do not use the App.
 
 ## 1. Grant of License
 
