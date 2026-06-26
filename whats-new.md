@@ -1,5 +1,20 @@
 # What's New in Pocardex
 
+## Version 0.1.14 - June 25 2026
+
+🚀 **New**
+
+- Global card search, found in the Collection screen
+- Set synchronization. Get the most recent data for your sets by synchronizing its data with our sources.
+- Support app development screen
+- Share app button in menu
+- Cardmarket.com button on card screen (Enable/Disable from Settings)
+- TCGPlayer.com button on card screen (Enable/Disable from Settings)
+
+🔧 **Improved**
+
+- Startup time and general performance
+
 ## Version 0.1.13 - March 21 2026
 
 🚀 **New**
