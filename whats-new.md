@@ -1,5 +1,15 @@
 # What's New in Pocardex
 
+## Version 0.1.17 - June 30 2026
+
+🔧 **Improved**
+
+- Better error handling for extreme edge cases
+
+🐛 **Fixed**
+
+- Fixed a bug where some cards were missing detailed variant data causing it to crash the 'add a set' process
+
 ## Version 0.1.14 - June 25 2026
 
 🚀 **New**
