@@ -1,5 +1,23 @@
 # What's New in Pocardex
 
+## Version 0.2.0 - Julu 10 2026
+
+🚀 **New**
+
+- Added feedback form to card view- allowing users to report issues with cards like missing variants or other potential bugs.
+- You can now add cards to your collection straight from the set page by pressing the new + icon and selecting one or multiple variants (longpress) - (Suggested by MilRav on Discord)
+
+🔧 **Improved**
+
+- Better performance on all list views (sets, cards, lists etc.)
+- Better UX for 'add card to list' feature from overview
+
+🐛 **Fixed**
+
+- Fixed bottom spacing on card lists
+- Fixed bottom spacing on set list
+- Fixed unnecessary set page header rebuilds causing poor performance
+
 ## Version 0.1.17 - June 30 2026
 
 🔧 **Improved**
