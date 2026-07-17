@@ -1,6 +1,16 @@
 # What's New in Pocardex
 
-## Version 0.2.0 - Julu 10 2026
+## Version 0.3.3 - July 17 2026
+
+🔧 **Improved**
+
+- Better API performance and faster updates on data corrections (Think missing variants etc.)
+
+🐛 **Fixed**
+
+- Fixed card completion status calculation when adding all card variants at once through the set page
+
+## Version 0.2.0 - July 10 2026
 
 🚀 **New**
 
