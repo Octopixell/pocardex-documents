@@ -1,5 +1,21 @@
 # What's New in Pocardex
 
+## Version 0.4.0 - July 28 2026
+
+🚀 **New**
+
+- Added a card completed marker to the total card count in the card view
+- Added card counts to variant tabs in card view- making it easier to see which variants you own and how many
+- Added "Collection view mode" setting including new compact view for your Collection
+- Added a "Card Completed" ribbon to cards in the set view when browsing with two or three columns
+- Added a "Sync Database" function to the settings menu allowing you to easily synchronize your whole collection with our online sources. This makes it easier to fix missing variants and other data issues
+- Added sorting options to the collection view allowing you to sort your sets by: Name, Release Date and Last Edited
+
+🔧 **Improved**
+
+- CardMarket button now opens with the English language selected so you no longer have to manually filter for it
+- Now tracking errors and other potential issues with the app using OpenTelemetry making it easier to improve stability while respecting your privacy
+
 ## Version 0.3.3 - July 17 2026
 
 🔧 **Improved**
