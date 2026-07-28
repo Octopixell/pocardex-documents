@@ -1,5 +1,11 @@
 # What's New in Pocardex
 
+## Version 0.4.1 - July 28 2026
+
+🐛 **Fixed**
+
+- Fixed unexpected error causing startup crash
+
 ## Version 0.4.0 - July 28 2026
 
 🚀 **New**
