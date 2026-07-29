@@ -1,5 +1,15 @@
 # What's New in Pocardex
 
+## Version 0.5.0 - July 29 2026
+
+🔧 **Improved**
+
+- Set list sorting header now has better contrast with the background and cards
+
+🐛 **Fixed**
+
+- Set names for sets with missing logo's now have proper padding in compact view mode
+
 ## Version 0.4.1 - July 28 2026
 
 🐛 **Fixed**
