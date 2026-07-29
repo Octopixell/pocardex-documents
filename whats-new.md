@@ -1,5 +1,11 @@
 # What's New in Pocardex
 
+## Version 0.5.1 - July 29 2026
+
+🐛 **Fixed**
+
+- Properly handle error in card-sync process when cards have been removed from the API. This stops the sync process from stalling
+
 ## Version 0.5.0 - July 29 2026
 
 🔧 **Improved**
