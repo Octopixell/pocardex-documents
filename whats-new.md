@@ -1,5 +1,24 @@
 # What's New in Pocardex
 
+## Version 0.6.0 - Aug 6 2026
+
+🚀 **New**
+
+- New flashlight button added to card lists allowing you to light up all cards, even uncollected ones, for a better view of the cards.
+- New 'Uncompleted cards' filter allowing you a quick overview of all cards of which you have either some variants or none at all
+
+🔧 **Improved**
+
+- Better haptic feedback when adding cards from the overview
+- Redesigned card list controls for better contrast and accessibility
+- Better DB query and datastream setup for improved performance
+- Better error and edge-case handling for set and DB sync
+
+🐛 **Fixed**
+
+- Rewritten database import functionality to allow importing your own DB without problems
+- Removed bugged out loading animation from feedback form
+
 ## Version 0.5.1 - July 29 2026
 
 🐛 **Fixed**
