@@ -1,5 +1,15 @@
 # What's New in Pocardex
 
+## Version 0.8.0 - Aug 14 2026
+
+🚀 **New**
+
+- Handling card errors during sync differently now. Sometimes on rare occasions cards are moved to another set or completely deleted. While this is rare; it does happen. You'll now receive an error when a card could no longer be found in the API and those cards will be marked red in the set and you'll be able to delete them from the set
+
+🐛 **Fixed**
+
+- The 'Uncompleted cards' filter now also shows fully uncollected cards
+
 ## Version 0.6.0 - Aug 6 2026
 
 🚀 **New**
