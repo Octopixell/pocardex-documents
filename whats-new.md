@@ -1,5 +1,21 @@
 # What's New in Pocardex
 
+## Version 0.9.1 - Sept 8 2026
+
+🚀 **New**
+
+- Introduced community standard base-, master- and grandmaster completion statistics (where available) for all sets
+- Add variant markers on cards in overview- giving you a quick glance at which variants you own and which you might still want to collect
+
+🔧 **Improved**
+
+- Better database migrations are now in place allowing us to make bigger changes less painful for you
+- Reworked database import so importing an older database properly triggers migrations and other database updates
+
+🐛 **Fixed**
+
+- Properly close database streams allowing for correct backup and import processing
+
 ## Version 0.8.0 - Aug 14 2026
 
 🚀 **New**
