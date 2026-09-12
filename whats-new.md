@@ -1,5 +1,21 @@
 # What's New in Pocardex
 
+## Version 0.10.4 - Sept 12` 2026
+
+🚀 **New**
+
+- Lists are now part of your main collection screen and allow you to add single cards which are not necessarily part of the sets you're collecting right now. This enables users to start collecting single cards and custom collections.
+
+🔧 **Improved**
+
+- App startup process has been rewritten in an attempt to prevent app freezups on startup
+- You can now recalculate your achievement progress from the achievement screen in case you feel something was miscounted
+- Better feedback to user actions using toast messages
+
+🐛 **Fixed**
+
+- Fixed faulty database migration
+
 ## Version 0.9.1 - Sept 8 2026
 
 🚀 **New**
