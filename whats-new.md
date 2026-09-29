@@ -1,6 +1,6 @@
 # What's New in Pocardex
 
-## Version 0.10.4 - Sept 12` 2026
+## Version 0.10.4 - Sept 12 2026
 
 🚀 **New**
 
