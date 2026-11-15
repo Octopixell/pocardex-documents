@@ -1,5 +1,15 @@
 # What's New in Pocardex
 
+## Version 0.11.2 - Nov 14 2026
+
+🔧 **Improved**
+
+- General security update
+
+🐛 **Fixed**
+
+- Data sync now properly syncs card and set images
+
 ## Version 0.10.4 - Sept 12 2026
 
 🚀 **New**
